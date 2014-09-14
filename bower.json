@@ -1,0 +1,12 @@
+{
+    "name": "backbone-command",
+    "version": "0.0.1",
+    "dependencies": {
+        "jquery":   "2.1.1",
+        "underscore": "1.7.0",
+        "backbone": "1.1.2"
+    },
+    "devDependencies": {
+
+    }
+}
